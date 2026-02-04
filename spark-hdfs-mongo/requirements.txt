@@ -1,0 +1,9 @@
+pymongo
+streamlit
+pandas
+Kafka
+MongoDB
+Streamlit
+Hadoop
+Spark
+

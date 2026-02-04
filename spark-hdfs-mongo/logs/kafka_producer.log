@@ -1,0 +1,2 @@
+♻️  Replaying /home/deepak/spark-hdfs-mongo/sample_logs/access.log to web_logs with LIVE timestamps (Ctrl+C to stop)
+sed: -e expression #1, char 17: unknown option to `s'

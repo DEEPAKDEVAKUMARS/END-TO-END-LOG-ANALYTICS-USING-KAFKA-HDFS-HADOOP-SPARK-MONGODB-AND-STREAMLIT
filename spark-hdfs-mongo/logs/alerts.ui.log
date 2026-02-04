@@ -1,0 +1,71 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://172.24.236.249:8501
+
+gio: http://localhost:8501: Operation not supported
+/home/deepak/spark-hdfs-mongo/app/alerts.py:44: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  last_10m = df[df["created_at"] >= datetime.utcnow() - timedelta(minutes=10)]
+2025-10-16 00:25:32.500 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/deepak/spark-hdfs-mongo/app/alerts.py:44: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  last_10m = df[df["created_at"] >= datetime.utcnow() - timedelta(minutes=10)]
+2025-10-16 00:25:40.426 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/deepak/spark-hdfs-mongo/app/alerts.py:44: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  last_10m = df[df["created_at"] >= datetime.utcnow() - timedelta(minutes=10)]
+2025-10-16 00:25:45.597 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/deepak/spark-hdfs-mongo/app/alerts.py:44: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  last_10m = df[df["created_at"] >= datetime.utcnow() - timedelta(minutes=10)]
+2025-10-16 00:25:50.733 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/deepak/spark-hdfs-mongo/app/alerts.py:44: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  last_10m = df[df["created_at"] >= datetime.utcnow() - timedelta(minutes=10)]
+2025-10-16 00:25:55.840 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/deepak/spark-hdfs-mongo/app/alerts.py:44: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  last_10m = df[df["created_at"] >= datetime.utcnow() - timedelta(minutes=10)]
+2025-10-16 00:26:00.962 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/deepak/spark-hdfs-mongo/app/alerts.py:44: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  last_10m = df[df["created_at"] >= datetime.utcnow() - timedelta(minutes=10)]
+2025-10-16 00:26:06.110 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/deepak/spark-hdfs-mongo/app/alerts.py:44: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  last_10m = df[df["created_at"] >= datetime.utcnow() - timedelta(minutes=10)]
+2025-10-16 00:26:13.347 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/deepak/spark-hdfs-mongo/app/alerts.py:44: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  last_10m = df[df["created_at"] >= datetime.utcnow() - timedelta(minutes=10)]
+2025-10-16 00:26:18.458 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+  Stopping...
